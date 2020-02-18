@@ -14,7 +14,7 @@ The project is divided in two folders
 ![](screenshot.jpg)
 
 # Sing Up Page
-![](screenshot2.jpg)
+![](screenshot1.jpg)
 
 # Home Page
-![](screenshot3.jpg)
+![](screenshot2.jpg)
